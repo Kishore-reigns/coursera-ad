@@ -1,4 +1,4 @@
-var arr = ["james","reigns","kane","thomas","John"] ;
+var arr = ["yakoov","james","reigns","kane","thomas","John","Ryan gosling"] ;
 
 for (var i = 0 ; i < arr.length ; i++){
 	if(arr[i][0] == 'j' || arr[i][0] == 'J'){
